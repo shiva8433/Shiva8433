@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)]
 <h1 align="center">Hi 👋, I'm SHIVAM KUMAR</h1>
 <h3 align="center">A passionate frontend & Machine-learning developer from india,</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva8433&label=Profile%20views&color=0e75b6&style=flat" alt="shiva8433" /> </p>
