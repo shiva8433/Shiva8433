@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva8433&label=Profile%20views&color=0e75b6&style=flat" alt="shiva8433" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@shivatech01" target="blank"><img src="https://img.shields.io/twitter/follow/@shivatech01?logo=twitter&style=for-the-badge" alt="@shivatech01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@shivasom_cripto" target="blank"><img src="https://img.shields.io/twitter/follow/@shivatech01?logo=twitter&style=for-the-badge" alt="@shivatech01" /></a> </p>
 
 - 🔭 I’m currently working on **making-resume & good portfolio**
 
